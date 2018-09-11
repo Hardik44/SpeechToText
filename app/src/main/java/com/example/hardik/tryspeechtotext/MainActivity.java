@@ -77,7 +77,7 @@ public class MainActivity extends AppCompatActivity implements RecognitionListen
 
     @Override
     public void onEndOfSpeech() {
-      //  Toast.makeText(getApplicationContext(),"End of speech",Toast.LENGTH_LONG).show();
+      //Toast.makeText(getApplicationContext(),"End of speech",Toast.LENGTH_LONG).show();
     }
 
     @Override
